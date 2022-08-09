@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+
+
+Books - 
+1. https://www.amazon.in/Data-Mining-Concepts-Techniques-Management/dp/0123814790/ref=sr_1_3?keywords=data+mining+concepts+and+techniques&qid=1659859139&s=books&sprefix=data+mining+%2Cstripbooks%2C1334&sr=1-3
